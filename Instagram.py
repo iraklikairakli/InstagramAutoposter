@@ -1,6 +1,5 @@
 import os
 import time
-import random
 from os import listdir
 from os.path import isfile, join
 from random import randint
